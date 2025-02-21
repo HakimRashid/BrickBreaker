@@ -1,0 +1,9 @@
+Guest17: 0
+null: 300
+Hakim: 500
+Guest521: 100
+Guest135: 100
+Guest803: 1400
+Guest693: 3300
+Guest701: 2500
+Guest530: 500

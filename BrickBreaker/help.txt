@@ -1,0 +1,33 @@
+Welcome to BrickBreaker ver 1.0
+
+Getting Started:
+-Pressing play sends you straight into the first level created. 
+-However you can pick your desired level in the  Levels tab by pressing Levels.
+-This version includes two data tracking modes: Guest Mode & Account Mode.
+-The difficulty can be changed in settings. There are the difficulties: easy, medium & hard. 
+-They affect the speed  of the bricks.
+-Guest Mode is on by default and gets turned off as soon as you sign in or log in.
+-Guest Mode only tracks your score and only refreshes once you finish all the levels or a game over.
+-Guest Mode allows you to enter in a new name each time you start a new game.
+-Account Mode tracks your highest score, play time and ammount of levels won and lost.
+-Once an account has been made it cannot be deleted.
+-Once the game has started the player may use the arrow keys or AD keys to move the paddle left or right.
+-Although first the player must first press the up or W key in order to launch the ball.
+
+ScoreBoard:
+-The ScoreBoard tracks all the highest scores across each of the accounts and guest accounts.
+-The ScoreBoard has three viewing modes: Guest Scores, Account Scores & All Scores.
+-Each viewing Mode only shows the highest 15 scores.
+
+LevelCreator:
+-The LevelCreator can be found in the Levels tab via the LevelCreatorWizard button.
+-The LevelCreator is a tool used for creating levels that can be then played in game.
+-The Game is only limited to reading 99 levels, once that number is reached thebutton will disappear.
+-It features a range of tools that the user can use to customize bricks.
+-The LevelCreator features two modes: Layout Assist & Free hand.
+-Layout Assist can only be activated whilst the grid is visible.
+-Once a level has been created it cannot be deleted/edited through the app(as of this version).
+-To delete/edit a level one must access the levels.txt file and clear lines of data manually.
+
+Fun fact: This project took me over 140 hours(possibly more) but i enjoyed every second.
+Have fun!
